@@ -1,0 +1,68 @@
+[
+{
+  "directory": "F:/Downloads/PathTracer - Student Version/PathTracer - Student Version/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/path-tracer.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\path-tracer.dir\\src\\main.cpp.obj -c \"F:\\Downloads\\PathTracer - Student Version\\PathTracer - Student Version\\src\\main.cpp\"",
+  "file": "F:/Downloads/PathTracer - Student Version/PathTracer - Student Version/src/main.cpp",
+  "output": "CMakeFiles/path-tracer.dir/src/main.cpp.obj"
+},
+{
+  "directory": "F:/Downloads/PathTracer - Student Version/PathTracer - Student Version/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/path-tracer.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\path-tracer.dir\\src\\material.cpp.obj -c \"F:\\Downloads\\PathTracer - Student Version\\PathTracer - Student Version\\src\\material.cpp\"",
+  "file": "F:/Downloads/PathTracer - Student Version/PathTracer - Student Version/src/material.cpp",
+  "output": "CMakeFiles/path-tracer.dir/src/material.cpp.obj"
+},
+{
+  "directory": "F:/Downloads/PathTracer - Student Version/PathTracer - Student Version/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/path-tracer.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\path-tracer.dir\\src\\shapes.cpp.obj -c \"F:\\Downloads\\PathTracer - Student Version\\PathTracer - Student Version\\src\\shapes.cpp\"",
+  "file": "F:/Downloads/PathTracer - Student Version/PathTracer - Student Version/src/shapes.cpp",
+  "output": "CMakeFiles/path-tracer.dir/src/shapes.cpp.obj"
+},
+{
+  "directory": "F:/Downloads/PathTracer - Student Version/PathTracer - Student Version/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/path-tracer.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\path-tracer.dir\\src\\backgrounds.cpp.obj -c \"F:\\Downloads\\PathTracer - Student Version\\PathTracer - Student Version\\src\\backgrounds.cpp\"",
+  "file": "F:/Downloads/PathTracer - Student Version/PathTracer - Student Version/src/backgrounds.cpp",
+  "output": "CMakeFiles/path-tracer.dir/src/backgrounds.cpp.obj"
+},
+{
+  "directory": "F:/Downloads/PathTracer - Student Version/PathTracer - Student Version/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/path-tracer.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\path-tracer.dir\\src\\aabb.cpp.obj -c \"F:\\Downloads\\PathTracer - Student Version\\PathTracer - Student Version\\src\\aabb.cpp\"",
+  "file": "F:/Downloads/PathTracer - Student Version/PathTracer - Student Version/src/aabb.cpp",
+  "output": "CMakeFiles/path-tracer.dir/src/aabb.cpp.obj"
+},
+{
+  "directory": "F:/Downloads/PathTracer - Student Version/PathTracer - Student Version/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/path-tracer.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\path-tracer.dir\\src\\camera.cpp.obj -c \"F:\\Downloads\\PathTracer - Student Version\\PathTracer - Student Version\\src\\camera.cpp\"",
+  "file": "F:/Downloads/PathTracer - Student Version/PathTracer - Student Version/src/camera.cpp",
+  "output": "CMakeFiles/path-tracer.dir/src/camera.cpp.obj"
+},
+{
+  "directory": "F:/Downloads/PathTracer - Student Version/PathTracer - Student Version/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/path-tracer.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\path-tracer.dir\\src\\bvh.cpp.obj -c \"F:\\Downloads\\PathTracer - Student Version\\PathTracer - Student Version\\src\\bvh.cpp\"",
+  "file": "F:/Downloads/PathTracer - Student Version/PathTracer - Student Version/src/bvh.cpp",
+  "output": "CMakeFiles/path-tracer.dir/src/bvh.cpp.obj"
+},
+{
+  "directory": "F:/Downloads/PathTracer - Student Version/PathTracer - Student Version/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/path-tracer.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\path-tracer.dir\\src\\scene.cpp.obj -c \"F:\\Downloads\\PathTracer - Student Version\\PathTracer - Student Version\\src\\scene.cpp\"",
+  "file": "F:/Downloads/PathTracer - Student Version/PathTracer - Student Version/src/scene.cpp",
+  "output": "CMakeFiles/path-tracer.dir/src/scene.cpp.obj"
+},
+{
+  "directory": "F:/Downloads/PathTracer - Student Version/PathTracer - Student Version/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/path-tracer.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\path-tracer.dir\\src\\image.cpp.obj -c \"F:\\Downloads\\PathTracer - Student Version\\PathTracer - Student Version\\src\\image.cpp\"",
+  "file": "F:/Downloads/PathTracer - Student Version/PathTracer - Student Version/src/image.cpp",
+  "output": "CMakeFiles/path-tracer.dir/src/image.cpp.obj"
+},
+{
+  "directory": "F:/Downloads/PathTracer - Student Version/PathTracer - Student Version/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/path-tracer.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\path-tracer.dir\\src\\pathtracer.cpp.obj -c \"F:\\Downloads\\PathTracer - Student Version\\PathTracer - Student Version\\src\\pathtracer.cpp\"",
+  "file": "F:/Downloads/PathTracer - Student Version/PathTracer - Student Version/src/pathtracer.cpp",
+  "output": "CMakeFiles/path-tracer.dir/src/pathtracer.cpp.obj"
+},
+{
+  "directory": "F:/Downloads/PathTracer - Student Version/PathTracer - Student Version/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/path-tracer.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\path-tracer.dir\\src\\scene_setup.cpp.obj -c \"F:\\Downloads\\PathTracer - Student Version\\PathTracer - Student Version\\src\\scene_setup.cpp\"",
+  "file": "F:/Downloads/PathTracer - Student Version/PathTracer - Student Version/src/scene_setup.cpp",
+  "output": "CMakeFiles/path-tracer.dir/src/scene_setup.cpp.obj"
+}
+]

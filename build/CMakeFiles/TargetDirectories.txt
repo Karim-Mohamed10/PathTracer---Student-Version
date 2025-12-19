@@ -1,0 +1,3 @@
+F:/Downloads/PathTracer - Student Version/PathTracer - Student Version/build/CMakeFiles/path-tracer.dir
+F:/Downloads/PathTracer - Student Version/PathTracer - Student Version/build/CMakeFiles/edit_cache.dir
+F:/Downloads/PathTracer - Student Version/PathTracer - Student Version/build/CMakeFiles/rebuild_cache.dir
